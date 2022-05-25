@@ -1,8 +1,7 @@
 ### Opa, bão ou não?
 
-- 🐍 Atualmente, estudando Python
-- 🎥🎵 Produtor Audiovisual
-- 🏆 +600k streams
+- 🐍 Amante de Python
+- 🌐 Atualmente, estudando Front-end
 
 ##
 
