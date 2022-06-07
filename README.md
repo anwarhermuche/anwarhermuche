@@ -1,7 +1,7 @@
 ### Opa, bão ou não?
 
-- 🐍 Amante de Python
-- 🌐 Atualmente, estudando Front-end
+- 🎲 Data Science
+- 🌐 Advanced SQL, Excel, Power BI and Python
 
 ##
 
