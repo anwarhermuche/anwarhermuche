@@ -1,5 +1,6 @@
-# Anwar's Portfolio Repository
+# Olá! Bem-vindo(a) ao meu repositório!
 <br>
+
 ## Minha experiência:
 • 🌐 Tenho experiência em trabalhar com Python, SQL, C++ e suas bibliotecas para Ciência de Dados e Machine Learning<br>
 • 🎲 Trabalhei como freelancer analista de dados para escolas de reforço no Brasil <br>
@@ -8,7 +9,7 @@
 <br>
 E não se esqueça de conferir o meu blog.
 <br>
-<br>
+
 ## Sobre mim:
 Olá! Meu nome é Anwar, tenho 20 anos e sou estudante de ciência da computação na Universidade Federal de Lavras (média geral do curso: 90,46). Já estou no mercado de dados há 5 anos, desde que tinha apenas 15 anos.<br>
 
