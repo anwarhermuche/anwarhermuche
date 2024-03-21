@@ -11,7 +11,7 @@ E não se esqueça de conferir o meu blog.
 <br>
 
 ## Sobre mim:
-Olá! Meu nome é Anwar, tenho 20 anos e sou estudante de ciência da computação na Universidade Federal de Lavras (média geral do curso: 90,46). Já estou no mercado de dados há 4 anos, desde que tinha apenas 17 anos.<br>
+Olá! Meu nome é Anwar, tenho 21 anos e sou estudante de ciência da computação na Universidade Federal de Lavras (média geral do curso: 90,46). Já estou no mercado de dados há 4 anos, desde que tinha apenas 17 anos.<br>
 
 ### Hard Skills:
 • Python (scikit-learn, tensorflow, pandas, numpy, matplotlib, seaborn, flask)
