@@ -1,69 +1,59 @@
-# Olá! Bem-vindo(a) ao meu repositório!
-<br>
+# Anwar Hermuche  
+### AI Engineer | AI Systems Architect | Backend (Python/FastAPI)
 
-## Minha experiência:
-• 🌐 Tenho experiência em trabalhar com Python, SQL, C++ e suas bibliotecas para Ciência de Dados e Machine Learning<br>
-• 🎲 Trabalhei como freelancer analista de dados para escolas de reforço no Brasil <br>
-• 📚 Estou estudando Ciência da Computação na UFLA (Universidade Federal de Lavras) <br>
-• 📧 Quer entrar em contato comigo? Envie um e-mail para anwarhermuche2@gmail.com <br>
-<br>
-E não se esqueça de conferir o meu blog.
-<br>
+Building production-grade AI systems, agent architectures and scalable backend infrastructures.
 
-## Sobre mim:
-Olá! Meu nome é Anwar, tenho 21 anos e sou estudante de ciência da computação na Universidade Federal de Lavras (média geral do curso: 90,46). Já estou no mercado de dados há 4 anos, desde que tinha apenas 17 anos.<br>
+---
 
-### Hard Skills:
-• Python (scikit-learn, tensorflow, pandas, numpy, matplotlib, seaborn, flask)
+## About Me
 
-• SQL
+I am an AI Engineer with a background in Data Science and Computer Science (UFLA), currently focused on designing and deploying scalable AI systems powered by LLMs, RAG architectures and agent orchestration frameworks.
 
-• Machine Learning (Modelos supervisionados, não supervisionados, deep learning e LLMs)
+I began my professional journey in 2020 working with data analysis and machine learning for educational institutions in Brazil. Over time, I transitioned from building predictive models and analytics pipelines to engineering full AI platforms — including multi-agent systems, backend services, orchestration layers and production-grade AI infrastructure.
 
-• Estatística descritiva e inferencial aplicada à análise de dados
+Today, I operate at the intersection of backend engineering, distributed systems and AI infrastructure, building systems that move from prototype to reliable production environments.
 
-• Excel e PowerBI
+---
 
-• C++
+## Core Expertise (AI Engineering)
 
-• JavaScript
+- AI Agents and Agentic Systems  
+- RAG Architectures (basic and advanced: self-querying, hierarchical retrieval)  
+- LLM Routing and multi-model orchestration  
+- Backend Engineering with Python and FastAPI  
+- API design, service gateways and AI proxies  
+- Vector Databases (Pinecone, Milvus, Weaviate, Qdrant, ChromaDB)  
+- Observability, logging, tracing and prompt/version governance  
+- Cloud infrastructure and distributed systems design  
 
-• Git & Version Control
-<br>
-<br>
-### Soft Skills:
-• Comunicativo
+---
 
-• Trabalho em equipe
+## Technical Background
 
-• Proatividade
+### Artificial Intelligence & Machine Learning
+- Supervised and unsupervised learning  
+- Deep learning fundamentals  
+- LLMs and SLMs  
+- Embeddings and semantic search  
+- Statistical modeling and evaluation  
 
-• Senso de liderança
+### Backend & Software Engineering
+- Python (FastAPI, Pydantic, Pandas, NumPy)  
+- SQL and NoSQL databases  
+- C++ (from college)
+- JavaScript  
+- Docker  
+- Git and version control  
 
-• Aprendo muito rápido
+## Education
 
-• Autodidata
-<br>
-<br>
-## Projetos em que atuei:
-• Desenvolvimento de chatbots e assistentes virtuais utilizando LLMs, com integração à API da OpenAI e utilização de outras ferramentas disponíveis, como os modelos da Hugging Face e o framework LangChain
+Incomplete B.Sc. in Computer Science — Federal University of Lavras (UFLA)  
+Academic performance: GPA 90.46  
 
-• Segmentação de clientes utilizando o algoritmo K-Means em uma análise RFV para realizar campanhas direcionadas aos clientes mais rentáveis da empresa
+---
 
-• Construção de relatórios automatizados para cursinhos brasileiros utilizando os microdados do ENEM, enfatizando a análise das questões, como aquelas com maior índice de erros, as mais difíceis, distribuição dos assuntos, entre outros
+## Languages
 
-• Construção de um aplicativo web utilizando Streamlit e a API do ChatGPT para realizar análise de sentimentos das avaliações do aplicativo da empresa.
-<br>
-<br>
-Quanto aos idiomas, sou fluente em português, possuo inglês avançado e espanhol básico.
-
-## Produção de Conteúdo:
-• No YouTube, tenho um curso ensinando a linguagem Python do zero e, futuramente, terá tutoriais sobre ciência de dados, Machine Learning e as novas ferramentas de LLMs
-
-• No LinkedIn, publico vários materiais gratuitos (como a transcrição em português de um curso gratuito oferecido pela DeepLearning.AI) para ajudar iniciantes e avançados na área
-
-• No Medium, publico artigos sobre diversos assuntos (Gradiente Descendente, Classificação Hierárquica, Feature Selection, entre outros)
-
-• No GitHub, publico vários projetos pessoais relacionados à ciência de dados e Machine Learning.
-<br>
-Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou animado para compartilhar meu conhecimento e colaborar em projetos interessantes.
+- Portuguese (Native)  
+- English (Advanced)  
+- Spanish (Basic)  
