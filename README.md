@@ -31,11 +31,11 @@ Today, I operate at the intersection of backend engineering, distributed systems
 ## Technical Background
 
 ### Artificial Intelligence & Machine Learning
-- Supervised and unsupervised learning  
-- Deep learning fundamentals  
-- LLMs and SLMs  
-- Embeddings and semantic search  
-- Statistical modeling and evaluation  
+- Supervised and unsupervised learning
+- Deep Learning
+- Language Models
+- Embeddings and semantic search
+- Statistical modeling and evaluation
 
 ### Backend & Software Engineering
 - Python (FastAPI, Pydantic, Pandas, NumPy)  
